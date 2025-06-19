@@ -42,7 +42,7 @@ sudo systemctl start tor
 ### ⬇️ Clone the Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/darkweb-monitor.git
+git clone https://github.com/riscomashete/darkweb-monitor.git
 cd darkweb-monitor
 chmod +x *.sh
 ```
@@ -100,7 +100,7 @@ This project is for **educational and ethical** cybersecurity research only.
 For feedback, contributions, or collaborations:
 
 **Risco Mashete**  
-🔗 [Your Website/Portfolio](https://riscomashete.com)  
+🔗 [My Website/Portfolio](https://riscomashete.com)  
 📫 [Your Email or GitHub Contact]
 
 ---
